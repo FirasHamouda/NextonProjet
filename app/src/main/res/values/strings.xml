@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NextonProjet</string>
+    <string name="film_search_hint">Film, Serie, Magazine…</string>
+    <string name="pitch">Summary :</string>
+    <string name="titre">Title :</string>
+    <string name="episode">Episode</string>
+    <string name="availability">Availability :</string>
+    <string name="action_ok">OK</string>
+    <string name="suggestion_hint">Suggestions</string>
+    <string name="home_hint">What do you want to watch ?</string>
+    <string name="errorWebService">A problem has arisen</string>
+    <string name="error">Whoops ! No result for your search !</string>
+    <string name="quit_application">Click BACK again to quit the application !</string>
+    <string name="series">Séries</string>
+    <string name="films">films</string>
+
+</resources>

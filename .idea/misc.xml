@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.6177083333333333" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.583" />
+        <entry key="app/src/main/res/drawable/bg_gradient.xml" value="0.395" />
+        <entry key="app/src/main/res/drawable/border_layout.xml" value="0.3455" />
+        <entry key="app/src/main/res/drawable/exo_close_bt.xml" value="0.3455" />
+        <entry key="app/src/main/res/drawable/film_shape.xml" value="0.48" />
+        <entry key="app/src/main/res/drawable/ic_clear_icon_primary.xml" value="0.3455" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.25" />
+        <entry key="app/src/main/res/drawable/ic_search_bar_search.xml" value="0.583" />
+        <entry key="app/src/main/res/drawable/reounded.xml" value="0.48" />
+        <entry key="app/src/main/res/drawable/splash_background.xml" value="0.3455" />
+        <entry key="app/src/main/res/drawable/title_shape.xml" value="0.583" />
+        <entry key="app/src/main/res/layout/activity_film_details.xml" value="0.5911458333333334" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.4901041666666667" />
+        <entry key="app/src/main/res/layout/activity_spash_screen.xml" value="0.4901041666666667" />
+        <entry key="app/src/main/res/layout/dialog_bottom_sheet.xml" value="0.5911458333333334" />
+        <entry key="app/src/main/res/layout/episode_recycler_row.xml" value="0.5911458333333334" />
+        <entry key="app/src/main/res/layout/grid_row.xml" value="0.5911458333333334" />
+        <entry key="app/src/main/res/layout/header.xml" value="0.4901041666666667" />
+        <entry key="app/src/main/res/layout/horizontal_recyler.xml" value="0.5911458333333334" />
+        <entry key="app/src/main/res/layout/image_holder.xml" value="0.5911458333333334" />
+        <entry key="app/src/main/res/layout/slider_row.xml" value="0.5911458333333334" />
+        <entry key="app/src/main/res/layout/suggestion_recycler_row.xml" value="0.5911458333333334" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3455" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3455" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
